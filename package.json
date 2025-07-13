@@ -1,12 +1,15 @@
 {
   "name": "paradise-nursery",
   "version": "1.0.0",
+  "homepage": "https://github.com/Jayant-1/Paradise-Nursery",
   "description": "A houseplant shopping application",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build && npm run start",
+    "deploy": "gh-pages -d build", 
     "eject": "react-scripts eject"
   },
   "dependencies": {
@@ -26,5 +29,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

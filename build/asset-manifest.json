@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jayant-1/Paradise-Nursery/static/css/main.a18a47de.css",
+    "main.js": "/Jayant-1/Paradise-Nursery/static/js/main.b4c651c7.js",
+    "index.html": "/Jayant-1/Paradise-Nursery/index.html",
+    "main.a18a47de.css.map": "/Jayant-1/Paradise-Nursery/static/css/main.a18a47de.css.map",
+    "main.b4c651c7.js.map": "/Jayant-1/Paradise-Nursery/static/js/main.b4c651c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18a47de.css",
+    "static/js/main.b4c651c7.js"
+  ]
+}
